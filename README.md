@@ -27,8 +27,7 @@ CLASSIFICATION](https://arxiv.org/pdf/1905.13523.pdf):
 
 ```
 @ARTICLE{Brahimi2019,
-  author = {{Brahimi}, Mohammed and {Mahmoudi}, Said and {Boukhalfa}, Kamel and
-         {Moussaoui}, Abdelouhab},
+  author = {Brahimi, Mohammed and Mahmoudi, Said and Boukhalfa, Kamel and Moussaoui, Abdelouhab},
   title = "{Deep interpretable architecture for plant diseases classification}",
   journal = {arXiv e-prints},
   year = "2019",
