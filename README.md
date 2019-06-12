@@ -10,7 +10,9 @@ CLASSIFICATION](https://arxiv.org/pdf/1905.13523.pdf).
 
 
 ## Teacher/Student Visualization Examples:
-![Early Blight ](./images/2.jpg)
+![Original image](./images/2.jpg)
+![Reconstructed visualization](./visualizations/2_vis.jpg)
+![Processed heatmap](./visualizations/2_heatmap.jpg)
 ---
 NOTE: When using (any part) of this repository, please cite [DEEP INTERPRETABLE ARCHITECTURE FOR PLANT DISEASES
 CLASSIFICATION](https://arxiv.org/pdf/1905.13523.pdf):
