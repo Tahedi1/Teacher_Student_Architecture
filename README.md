@@ -34,7 +34,7 @@ To run the code, the following packages are required :
 ```bash
 python visualization.py
 ```
-The code also can be used in interactive environment using **test_visualization.ipynb**.
+The visualization methode can be used also in an interactive environment using **test_visualization.ipynb**.
 
 
 ## Teacher/Student Visualization Example
