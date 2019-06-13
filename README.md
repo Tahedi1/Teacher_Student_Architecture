@@ -9,7 +9,7 @@ We propose a new trainable visualization method for plant diseases classificatio
 
 
 ## Prerequisites
-To run the code of Teacher/Student architecture, the following packages are required :
+To run the code, the following packages are required :
 
 * tensorflow==1.9.0
 * Keras==2.2.4
@@ -20,7 +20,14 @@ To run the code of Teacher/Student architecture, the following packages are requ
 
 
 ## Usage
-
+1. install required packages.
+2.Download the model uding this link  [Teacher/Student model].(http://download1500.mediafire.com/0liaaipyqiqg/3494uuen1714dqy/black_models_15epochs_weights.h5).
+3. Copy the model in ./model.
+4. Copy input images with black background in ./images.
+5. Run the following code from the project folder:
+```bash
+python visualization.py
+```
 
 ## Teacher/Student Visualization Example
 ![Original image](./images/2.jpg)
