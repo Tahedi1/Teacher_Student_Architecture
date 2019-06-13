@@ -9,6 +9,14 @@ We propose a new trainable visualization method for plant diseases classificatio
 
 
 ## Prerequisites
+To run the code of Teacher/Student architecture, the following packages are required :
+
+* tensorflow==1.9.0
+* Keras==2.2.4
+* matplotlib==3.0.2
+* OpenCV 3.0
+* Pillow==5.4.1
+
 
 
 ## Usage
