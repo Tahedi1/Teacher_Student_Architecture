@@ -5,7 +5,7 @@ CLASSIFICATION](https://arxiv.org/pdf/1905.13523.pdf).
 
 We propose a new trainable visualization method for plant diseases classification based on a Convolutional Neural Network (CNN) architecture composed of two deep classifiers. The first one is named Teacher and the second one Student. This architecture leverages the multitask learning to train the Teacher and the Student jointly. Then, the communicated representation between the Teacher and the Student is used as a proxy to visualize the most important image regions for classification. This new architecture produces sharper visualization than the existing methods in plant diseases context. All experiments are achieved on PlantVillage dataset that contains 54306 plant images.
 
-The data set used for this paper can be downloaded from [Data set](https://github.com/spMohanty/PlantVillage-Dataset/tree/master/raw/segmented).
+The data set used for this paper can be downloaded from [Data set](https://github.com/spMohanty/PlantVillage-Dataset/tree/master/raw/segmented). In this paper, we have used the segmented version with black background of [PlantVilage dataset](https://github.com/spMohanty/PlantVillage-Dataset).   
 
 ## Teacher/Student architectur
 ![Teacher_Student architecture](./paper_images/architecture.jpg)
