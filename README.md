@@ -19,7 +19,7 @@ To run the code, the following packages are required :
 * tensorflow==1.9.0
 * Keras==2.2.4
 * matplotlib==3.0.2
-* OpenCV 3.0
+* OpenCV==3.0
 * Pillow==5.4.1
 
 
