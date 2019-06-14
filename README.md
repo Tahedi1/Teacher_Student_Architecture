@@ -26,7 +26,7 @@ To run the code, the following packages are required :
 
 ## Usage
 1. install required packages.
-2. Download the model uding this link  [Teacher/Student model](http://download1500.mediafire.com/0liaaipyqiqg/3494uuen1714dqy/black_models_15epochs_weights.h5).
+2. Download the model using this link  [Teacher/Student model](http://download1500.mediafire.com/0liaaipyqiqg/3494uuen1714dqy/black_models_15epochs_weights.h5).
 3. Copy the model in **./model**.
 4. Copy input images with **black background** in **./images**.
 5. Run the following code from the project folder:
