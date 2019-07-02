@@ -71,7 +71,7 @@ def build_graph(input_shape = (224,224,3),nbr_of_classes=38,view_summary=False):
 #Get Teacher/Student Model
     model = Model(input = base_model1.input, output = [classif_out_encoder1,classif_out_encoder2])
     if(view_summary):
-	    print(mode.summary())
+	    print(model.summary())
 #Compile the mode to use multi-task learning
     losses = {
             "out1": 'categorical_crossentropy',
