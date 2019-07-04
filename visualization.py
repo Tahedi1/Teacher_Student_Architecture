@@ -70,7 +70,7 @@ def visualize_image(visualization,image_path,out_folder):
 def visualize_folder(visualization,images_folder,out_folder):	
     
     if not os.path.exists(out_folder):
-        os.makedirs(out_folde)
+        os.makedirs(out_folder)
     for path in os.listdir(images_folder):
 		    print(path)
 		    image_path = os.path.join(images_folder,path)
